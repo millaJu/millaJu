@@ -12,9 +12,9 @@
 
 Web Developer 
 -----------------
-- 🌱 Iniciante aprendendo desenvolvimento web
-- 🐼 Adoro buscar entender como as coisas funcionam
-- ⚡ Futuro dev
+- 🌱 PROFISSIONAL
+- 🐼 SIGMA
+- ⚡ Futuro 10K SEMANAL
 -->
 
 <!-- Seção de linguagens estudadas -->
